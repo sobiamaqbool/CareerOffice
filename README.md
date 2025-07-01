@@ -1,2 +1,2 @@
 # CareerOffice
-**Student Career Office** – Mobile App | React Native, Firebase, Expo   
+**Student Career Office** – Android Mobile App | React Native, Firebase, Expo   
