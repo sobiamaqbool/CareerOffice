@@ -4,7 +4,7 @@ A cross-platform mobile application built with React Native and Firebase to help
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **User Authentication** – Email and password login using Firebase Authentication.
 - **Student Dashboard** – Personalized dashboard with access to career services.
@@ -18,7 +18,7 @@ A cross-platform mobile application built with React Native and Firebase to help
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** React Native (Expo)
 - **Backend:** Firebase (Authentication, Firestore, Storage)
@@ -32,7 +32,7 @@ A cross-platform mobile application built with React Native and Firebase to help
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 ![Login](https://github.com/user-attachments/assets/a51df429-c284-418b-9630-45993a5a3df0)
 ![ManageEventScreen](https://github.com/user-attachments/assets/a68b81b2-ea1d-42f4-9f02-83152df41c40)
