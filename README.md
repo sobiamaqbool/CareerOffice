@@ -1,4 +1,4 @@
-# 📱 Student Career Office – Mobile App
+#  Student Career Office – Mobile App
 
 A cross-platform mobile application built with React Native and Firebase to help students connect with career services, schedule appointments with experts, explore job listings, attend events, and manage their professional growth.
 
